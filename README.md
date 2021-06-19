@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/tshu_w)
 [![](https://komarev.com/ghpvc/?username=tshu-w&color=blueviolet&style=flat-square)]()
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tshu-w&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![](https://github-readme-stats.vercel.app/api?username=tshu-w&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 - 🧑🏻‍🎓 PhD candidate at UCAS
 - 🔭 Currently interested in Entity Resolution
