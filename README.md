@@ -15,7 +15,8 @@
 
 <details>
   <summary>Wakatime Status</summary>
- 
+<br>
+  
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
