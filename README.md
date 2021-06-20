@@ -10,7 +10,7 @@
 
 - 🧑🏻‍🎓 PhD candidate at UCAS
 - 🔭 Currently interested in Entity Resolution
-- 🖥️ Emacs Fans
+- 🛠 macOS & Emacs & ZSH
 - 🚧 Under construction...
 
 <details>
