@@ -24,7 +24,9 @@
 
 <details>
   <summary>Wakatime Stats</summary>
-<br>
+
+  currently, files accessed by tramp cannot be tracked by wakatime, see https://github.com/wakatime/wakatime-mode/issues/27
+  <br>
   
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
