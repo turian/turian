@@ -1,23 +1,24 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/-Email-325180?logo=maildotru&logoColor=white&style=flat-square)](mailto:hi@wang.tianshu.me)
-[![](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/tshu-w)
-[![](https://img.shields.io/badge/-Telegram-26a5e4?labelColor=fafafa&logo=telegram&style=flat-square)](https://t.me/tshu_w) 
-[![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/tshu_w)
-[![](https://komarev.com/ghpvc/?username=tshu-w&color=blueviolet&style=flat-square)]()
+<!-- [![](https://img.shields.io/badge/-Email-325180?logo=maildotru&logoColor=white&style=flat-square)](mailto:hi@wang.tianshu.me) -->
+[![](https://img.shields.io/badge/-GitHub-black?logo=GitHub&style=flat-square)](https://github.com/turian)
+<!-- [![](https://img.shields.io/badge/-Telegram-26a5e4?labelColor=fafafa&logo=telegram&style=flat-square)](https://t.me/tshu_w) -->
+[![](https://img.shields.io/badge/-Twitter-1da1f2?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/turian)
+[![](https://komarev.com/ghpvc/?username=turian&color=blueviolet&style=flat-square)]()
 
 
-
+<!-- 
 - 🧑🏻‍🎓 PhD candidate at UCAS
 - 🔭 Currently interested in Entity Resolution
 - 🛠 macOS & Emacs & ZSH
 - 🚧 Under construction...
+ -->
 
 <details>
 
 <summary>GitHub Stats</summary>
 
-![Tianshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tshu-w&show_icons=true&theme=buefy&count_private=true)
+![Joseph Turian's GitHub stats](https://github-readme-stats.vercel.app/api?username=turian&show_icons=true&theme=buefy&count_private=true)
   
 </details>
 
@@ -29,6 +30,8 @@
   <br>
   
 <!--START_SECTION:waka-->
+<!-- 
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C965%20hrs%2058%20mins-blue)
 
 **I'm an Early 🐤** 
@@ -87,6 +90,7 @@ TeX                      2 repos             ██░░░░░░░░░�
 
 ```
 
+--> 
 
 
  Last Updated on 13/09/2022 08:07:56 UTC
