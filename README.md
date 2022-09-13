@@ -22,13 +22,15 @@
   
 </details>
 
+<!-- 
 
 <details>
   <summary>Wakatime Stats</summary>
 
   Currently, files accessed by tramp cannot be tracked by wakatime, see https://github.com/wakatime/wakatime-mode/issues/27
   <br>
-  
+  --> 
+
 <!--START_SECTION:waka-->
 <!-- 
 
